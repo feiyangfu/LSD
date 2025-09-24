@@ -13,7 +13,7 @@ This repository officially houses the PyTorch implementation of the paper titled
 
 Please refer to [JYS](https://github.com/enkeejunior1/jump-your-steps) for Installation.
 
-# Reference
+# References
 This repository is heavily based on 
 
 - [CTMC](https://github.com/andrew-cr/tauLDR/tree/main)  
