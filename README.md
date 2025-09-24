@@ -1,4 +1,4 @@
-#  [NeurIPS'25] Learnable Sampler Distillation for Discrete Diffusion Moldes
+#  [NeurIPS'25] Learnable Sampler Distillation for Discrete Diffusion Models
 This repository officially houses the PyTorch implementation of the paper titled "Learnable Sampler Distillation for Discrete Diffusion Moldes", which is presented at NeurIPS 2025 as a spotlight.
 
 # Project Roadmap
