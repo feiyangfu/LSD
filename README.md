@@ -5,6 +5,15 @@ This repository officially houses the PyTorch implementation of the paper titled
 
 Please refer to [JYS](https://github.com/enkeejunior1/jump-your-steps) for Installation.
 
+# Pipeline
+```bash
+# 1. Generate teacher data
+./train_teacher.sh
+
+# 2. Train the student sampler
+./train_student.sh
+
+```
 # References
 This repository is heavily based on 
 
